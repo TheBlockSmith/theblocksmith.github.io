@@ -1,3 +1,3 @@
-# theblocksmith.github.io
+# TheBlockSmith
 
 my website.
